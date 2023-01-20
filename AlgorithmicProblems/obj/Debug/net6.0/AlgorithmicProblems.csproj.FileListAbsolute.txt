@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\bin\Debug\net6.0\AlgorithmicProblems.exe
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\bin\Debug\net6.0\AlgorithmicProblems.deps.json
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\bin\Debug\net6.0\AlgorithmicProblems.runtimeconfig.json
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\bin\Debug\net6.0\AlgorithmicProblems.dll
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\bin\Debug\net6.0\AlgorithmicProblems.pdb
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\AlgorithmicProblems.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\AlgorithmicProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\AlgorithmicProblems.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\AlgorithmicProblems.AssemblyInfo.cs
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\AlgorithmicProblems.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\AlgorithmicProblems.dll
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\refint\AlgorithmicProblems.dll
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\AlgorithmicProblems.pdb
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\AlgorithmicProblems.genruntimeconfig.cache
+C:\Users\Hp\source\repos\GraduateSoftwareDarwin\AlgorithmicProblems\AlgorithmicProblems\obj\Debug\net6.0\ref\AlgorithmicProblems.dll
