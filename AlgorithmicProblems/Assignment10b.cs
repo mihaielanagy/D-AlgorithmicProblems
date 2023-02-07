@@ -70,7 +70,6 @@ namespace AlgorithmicProblems
             }
 
             int x = n-1;
-
             string arrayDiagonal2 = "";
             int sumDiagonal2 = 0;
             int prodDiagonal2 = 1;
@@ -81,13 +80,12 @@ namespace AlgorithmicProblems
                 sumDiagonal2 += array[i, x];
                 prodDiagonal2 *= array[i, x];
                 x--;
-
             }
 
-            Console.WriteLine($"The numbers in the first diagonal are: {arrayDiagonal}");
+            Console.WriteLine($"\r\nThe numbers in the first diagonal are: {arrayDiagonal}");
             Console.WriteLine($"The sum of the numbers in the first diagonal is: {sumDiagonal}");
             Console.WriteLine($"The product of the numbers in the first diagonal is: {prodDiagonal}");
-            Console.WriteLine($"The numbers in the second diagonal are: {arrayDiagonal2}");
+            Console.WriteLine($"\r\nThe numbers in the second diagonal are: {arrayDiagonal2}");
             Console.WriteLine($"The sum of the numbers in the second diagonal is: {sumDiagonal2}");
             Console.WriteLine($"The product of the numbers in the second diagonal is: {prodDiagonal2}");
         }
