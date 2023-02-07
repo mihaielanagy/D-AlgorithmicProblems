@@ -62,7 +62,7 @@ switch (input)
         }
     case "10":
         {
-            var AS10 = new Assignment10();
+            var AS10 = new Assignment10b();
             AS10.Run();
             break;
         }

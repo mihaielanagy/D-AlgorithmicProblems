@@ -90,6 +90,8 @@ namespace AlgorithmicProblems
                 }
             }
 
+
+
             Console.WriteLine($"The numbers in diagonal are: {arrayDiagonal}");
             Console.WriteLine($"The sum of the numbers in diagonal is: {sumDiagonal}");
             Console.WriteLine($"The product of the numbers in diagonal is: {prodDiagonal}");
