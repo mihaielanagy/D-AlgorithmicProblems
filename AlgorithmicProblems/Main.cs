@@ -66,6 +66,12 @@ switch (input)
             AS10.Run();
             break;
         }
+    case "11":
+        {
+            var AS11 = new Strings();
+            AS11.Run();
+            break;
+        }
     default:
         break;
 }
