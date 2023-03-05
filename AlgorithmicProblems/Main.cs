@@ -72,6 +72,24 @@ switch (input)
             AS11.Run();
             break;
         }
+    case "12":
+        {
+            var AS12 = new Assignment12();
+            AS12.Run();
+            break;
+        }
+    case "13":
+        {
+            var AS13 = new Assignment13();
+            AS13.Run();
+            break;
+        }
+    case "14":
+        {
+            var AS14 = new Assignment14();
+            AS14.Run();
+            break;
+        }
     default:
         break;
 }
